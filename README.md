@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @santidev4
 - 👀 I’m interested in frontend and backend development 
-- 🌱 I’m currently learning vue.js 
 
 
 
